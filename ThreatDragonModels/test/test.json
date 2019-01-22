@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "ds",
+    "description": "ddfg"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "frff_diag",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
